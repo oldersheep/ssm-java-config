@@ -82,3 +82,5 @@ public class WebAppInitializer extends AbstractAnnotationConfigDispatcherServlet
 ```
 
 具体其余的就不再一一赘述了，在类中均有例子对应。
+
+其余的地方是否有bug还没进行测试，具体的配置已经完成了，也算是完全摆脱了xml的配置，所以没有xml并不是spring boot的特点。
