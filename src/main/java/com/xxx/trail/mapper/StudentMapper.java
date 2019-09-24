@@ -6,11 +6,10 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 /**
- * @ClassName StudentMapper
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 22:27
- * @Version 1.0
+ *
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 @Repository
 public interface StudentMapper {

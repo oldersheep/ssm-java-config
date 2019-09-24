@@ -15,11 +15,10 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import java.nio.charset.Charset;
 
 /**
- * @ClassName WebMvcConfig
- * @Description 相当于 springmvc-config.xml中的配置信息
- * @Author Lilg
- * @Date 2019/4/17 21:36
- * @Version 1.0
+ * 替代 Spring Web MVC的配置
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 @Configuration
 @EnableWebMvc

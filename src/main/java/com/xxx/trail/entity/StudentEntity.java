@@ -7,11 +7,10 @@ import javax.persistence.Table;
 import java.util.Date;
 
 /**
- * @ClassName StudentEntity
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 22:25
- * @Version 1.0
+ *
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 @Table
 public class StudentEntity {

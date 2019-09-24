@@ -6,11 +6,10 @@ import com.xxx.trail.entity.StudentEntity;
 import java.util.List;
 
 /**
- * @ClassName StudentService
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 22:22
- * @Version 1.0
+ *
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 public interface StudentService {
 

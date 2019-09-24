@@ -156,7 +156,7 @@
     </dependency>
     <!-- JSP相关 -->
     <dependency>
-      <groupId>jstl</groupId>
+      <groupId>javax.servlet</groupId>
       <artifactId>jstl</artifactId>
       <version>${jstl.version}</version>
     </dependency>

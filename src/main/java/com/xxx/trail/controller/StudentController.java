@@ -13,11 +13,10 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @ClassName StudentController
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 22:33
- * @Version 1.0
+ *
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 @Controller
 @RequestMapping("/student")

@@ -19,11 +19,11 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @ClassName DataSourceConfig
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 21:47
- * @Version 1.0
+ * 数据源配置
+ * 
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 
 @Configuration

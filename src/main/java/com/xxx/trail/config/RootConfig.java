@@ -7,11 +7,10 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
 /**
- * @ClassName RootConfig
- * @Description 加载spring启动的一些内容
- * @Author Lilg
- * @Date 2019/4/17 22:21
- * @Version 1.0
+ * 加载Spring 启动的内容
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 @Configuration
 @ComponentScan(basePackages = { "com.xxx.trail.config", "com.xxx.trail.service.impl" })

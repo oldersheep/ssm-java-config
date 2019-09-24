@@ -5,11 +5,10 @@ import com.xxx.trail.config.WebMvcConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**
- * @ClassName WebAppInitializer
- * @Description
- * @Author Lilg
- * @Date 2019/4/17 21:35
- * @Version 1.0
+ * 替代 web.xml
+ * @author Lilg
+ * @version 1.0
+ * @since 1.0
  */
 public class WebAppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
